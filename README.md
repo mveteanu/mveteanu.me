@@ -1,2 +1,2 @@
 # mveteanu.me
-Landing page for mveteanu.me domain
+Landing page for https://mveteanu.me
